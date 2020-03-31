@@ -94,6 +94,4 @@ class FunctionsTest < MiniTest::Test
     celsius_conversion = fahrenheit_to_celsius(32)
     assert_equal(0, celsius_conversion)
   end
-
-
 end

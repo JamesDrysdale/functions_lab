@@ -35,7 +35,7 @@ def cube_volume(area)
 end
 
 def sphere_volume(radius)
-    return Math::PI * 4/3 * radius**3
+    return Math::PI * 4.0/3.0 * radius**3
 end
 
 
